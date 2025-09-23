@@ -1,8 +1,8 @@
 <?php
-// Configurar zona horaria (ajústala a la tuya)
+
 date_default_timezone_set('America/Costa_Rica');
 
-// Obtener fecha y hora actuales
+
 $fecha = date("d/m/Y");
 $hora = date("H:i");
 ?>
